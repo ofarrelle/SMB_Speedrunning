@@ -1,3 +1,4 @@
+<table>
 <tbody>
     <tr class="hidden-xs">
         <th>Rank</th>
@@ -19994,3 +19995,4 @@ New PB!">
         <td class="nobr center hidden-xs small"><i class="fas fa-video" title="Video available"></i></td>
     </tr>
 </tbody>
+</table>
